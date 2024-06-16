@@ -1,0 +1,15 @@
+[package]
+name = "IncubHub"
+version = "1.0.0"
+authors = []
+
+[addresses]
+payoutaddx="0x2e725e85b90ffe9bda5c61f769653d980517dfc96be6f4f8be3bc7c629f1dab8"
+[dev-addresses]
+
+[dependencies.AptosFramework]
+git = "https://github.com/aptos-labs/aptos-core.git"
+rev = "mainnet"
+subdir = "aptos-move/framework/aptos-framework"
+
+[dev-dependencies]

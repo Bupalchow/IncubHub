@@ -1,0 +1,11 @@
+.Dialogbox{
+  position: absolute;
+  top: 10%;
+  left:85% ;
+  z-index: 5;
+}
+.accordin{
+  position: absolute;
+  top:55%;
+  left: 5%;
+}
